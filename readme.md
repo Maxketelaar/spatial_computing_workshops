@@ -20,7 +20,7 @@ conda env create -f environment.yml
 
 **5. Activate the workshop environment**
 ```bash
-conda activate spatial_computing_workshops
+conda activate thesis
 ```
 
 **6. Localy install topoGenesis**

@@ -1,4 +1,4 @@
-name: sc_workshops
+name: thesis
 channels:
   - conda-forge
   - defaults
